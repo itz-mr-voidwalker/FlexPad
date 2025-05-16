@@ -1,7 +1,7 @@
 # FlexPad - CustomTkinter Text Editor ✍️🖤
 
 > **FlexPad** is a sleek, dark-themed text editor built using CustomTkinter with all the essential features you need for a smooth writing experience. Lightweight, fast, and loaded with cool features like autosave, font customization, and dark/light mode toggle. ⚡🖥️
-![20250516_1715_FlexPad Modern UI Poster_remix_01jvcehfdmemdar42pevx6wwvd](https://github.com/user-attachments/assets/b5a82809-3908-4556-9c44-c6342a16ab31)
+<img src="https://github.com/user-attachments/assets/b5a82809-3908-4556-9c44-c6342a16ab31" style="width:50%;"/>
 
 ---
 
