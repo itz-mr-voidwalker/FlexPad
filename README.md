@@ -8,7 +8,7 @@
 ## Features 🚀
 
 - **Modern CustomTkinter UI** with a clean and user-friendly interface. 🖥️✨
-- **Autosave** functionality that saves your work automatically after 2 seconds of inactivity. 💾⏱️
+- **Autosave** functionality that saves your work automatically after 60 seconds of inactivity. 💾⏱️
 - **File operations:** New, Open, Save, and Exit. 📂🆕💾❌
 - **Font Selector:** Customize font size and weight on the fly. 🔤🎨
 - **Dark/Light mode toggle** for your comfort. 🌙☀️
