@@ -104,7 +104,7 @@ class CustomApp(ctk.CTk):
             # Schedule autosave after 2 sec of inactivity
             if self.autosave_id:
                 self.after_cancel(self.autosave_id)
-            self.autosave_id = self.after(2000, self.autosave)
+            self.autosave_id = self.after(60000, self.autosave)
         except Exception as e:
             logging.error(f"Error updating status: {e}")
 
